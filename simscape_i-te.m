@@ -1,5 +1,5 @@
-%% ZAMAN VEKTÖRLERİNİ OLUŞTUR
-T = 3;                        % Simülasyon süresi (s) → Doğrudan yazıyoruz
+%% ZAMAN VEKTÖRLERİ
+T = 3;                        % Simülasyon süresi (s) 
 
 N_sl = length(ia_sl);         % Simulink örnek sayısı (65)
 N_ss = length(ia_ss);         % Simscape örnek sayısı (270)
@@ -24,6 +24,6 @@ xlabel('Zaman (s)');
 title('Simulink Modeli – Akım ve Tork');
 legend('Armatür Akımı', 'Elektromanyetik Tork', 'Location', 'best');
 
-% Arka planı beyaz yap (rapor için)
 set(gcf, 'Color', 'w');
 set(gca, 'Color', 'w');
+
