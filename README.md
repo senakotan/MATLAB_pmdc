@@ -22,31 +22,6 @@ Key characteristics:
 
 ---
 
-## Mathematical Model
-The PMDC motor is modeled using three fundamental equations:
-
-### Electrical Dynamics
-\[
-v_a = r_a i_a + L_a \frac{di_a}{dt} + e_m
-\]
-\[
-e_m = K_v \omega
-\]
-
-### Electromagnetic Torque
-\[
-T_e = K_v i_a
-\]
-
-### Mechanical Dynamics
-\[
-T_e = J \frac{d\omega}{dt} + B \omega + T_L
-\]
-
-These equations are combined to obtain a complete dynamic model of the system.
-
----
-
 ## Simulation Parameters
 The simulations are performed using the following parameters:
 
