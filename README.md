@@ -52,6 +52,8 @@ The model consists of:
 This method clearly illustrates the interaction between electrical and mechanical subsystems.
 
 📌 **Simulink Block Diagram Model**
+
+
 <img width="971" height="572" alt="image" src="https://github.com/user-attachments/assets/cf5abed5-c9a7-4b89-b238-ad1290976999" />
 
 
@@ -68,6 +70,8 @@ Used components:
 This approach provides a more realistic representation of physical behavior and energy flow.
 
 📌 **Simscape Physical Model**
+
+
 <img width="1576" height="670" alt="image" src="https://github.com/user-attachments/assets/17d0569f-72f6-4b78-8ec1-af6bad5dfcf7" />
 
 
