@@ -14,6 +14,6 @@ xlabel('Zaman (s)');
 title('Simulink Modeli – Akım ve Tork');
 legend('Armatür Akımı', 'Elektromanyetik Tork', 'Location', 'best');
 
-set(gcf, 'Color', 'w');   % Figure arka planı
-set(gca, 'Color', 'w');   % Grafik alanı (axes)
+set(gcf, 'Color', 'w'); 
+set(gca, 'Color', 'w');   
 
