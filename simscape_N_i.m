@@ -1,4 +1,5 @@
-%% Simscape – Hız (N, rpm) ve Akım Grafigi
+%% Simscape – Hız (N, rpm) ve Akim Graf,g,
+
 N_ss_rpm = w_ss * 60 / (2*pi);   % rad/s -> rpm
 
 figure;
@@ -18,4 +19,5 @@ legend('Hız (rpm)', 'Armatür Akımı', 'Location', 'best');
 
 set(gcf, 'Color', 'w');  
 set(gca, 'Color', 'w');  
+
 
