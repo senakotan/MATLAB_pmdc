@@ -18,7 +18,7 @@ Key characteristics:
 - Constant magnetic flux (Φ = constant)
 - Back electromotive force proportional to angular speed
 - Electromagnetic torque proportional to armature current
-- High starting current and simple controllability
+- High starting current and simple controllability.
 
 ---
 
